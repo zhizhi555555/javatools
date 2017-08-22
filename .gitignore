@@ -1,4 +1,4 @@
-*.java.hsp
+\*.java.hsp
 *.sonarj
 *.sw*
 .DS_Store
