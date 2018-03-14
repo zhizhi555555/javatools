@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/img/2.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/img/3.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md" afterPath="$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md" />
     </list>
@@ -37,31 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reactor（反应器）模式.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Reactor（反应器）模式.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <first_editor relative-caret-position="399">
+                <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
                 <folding>
-                  <marker date="1521011072410" expanded="false" signature="2608:2952" ph="..." />
-                  <marker date="1521011072410" expanded="true" signature="2958:3066" ph="/**...*/" />
-                  <marker date="1521011072410" expanded="true" signature="3110:5204" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="3235:3903" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="3745:3837" ph="//..." />
-                  <marker date="1521011072410" expanded="true" signature="3961:4574" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="4332:4407" ph="//..." />
-                  <marker date="1521011072410" expanded="true" signature="4614:4789" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="4841:5200" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="4880:5192" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="5286:5456" ph="..." />
-                  <marker date="1521011072410" expanded="true" signature="5510:6837" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="5780:6221" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="5981:6073" ph="//..." />
-                  <marker date="1521011072410" expanded="true" signature="6249:6392" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="6402:6485" ph="/**...*/" />
-                  <marker date="1521011072410" expanded="true" signature="6536:6833" ph="{...}" />
-                  <marker date="1521011072410" expanded="true" signature="6702:6781" ph="//..." />
+                  <marker date="1521011184060" expanded="false" signature="2560:2904" ph="..." />
+                  <marker date="1521011184060" expanded="true" signature="2910:3018" ph="/**...*/" />
+                  <marker date="1521011184060" expanded="true" signature="3062:5156" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="3187:3855" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="3697:3789" ph="//..." />
+                  <marker date="1521011184060" expanded="true" signature="3913:4526" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="4284:4359" ph="//..." />
+                  <marker date="1521011184060" expanded="true" signature="4566:4741" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="4793:5152" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="4832:5144" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="5238:5408" ph="..." />
+                  <marker date="1521011184060" expanded="true" signature="5462:6789" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="5732:6173" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="5933:6025" ph="//..." />
+                  <marker date="1521011184060" expanded="true" signature="6201:6344" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="6354:6437" ph="/**...*/" />
+                  <marker date="1521011184060" expanded="true" signature="6488:6785" ph="{...}" />
+                  <marker date="1521011184060" expanded="true" signature="6654:6733" ph="//..." />
                 </folding>
               </first_editor>
               <second_editor />
@@ -69,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/img/2.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -407,7 +407,7 @@
       <option name="presentableId" value="Default" />
       <updated>1503369203744</updated>
       <workItem from="1503369327777" duration="13000" />
-      <workItem from="1521007079532" duration="3672000" />
+      <workItem from="1521007079532" duration="3773000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1521007385547</created>
@@ -437,11 +437,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521010053373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="反应堆模式">
+      <created>1521011097086</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1521011097086</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3685000" />
+    <option name="totallyTimeSpent" value="3786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -607,39 +614,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/img/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <first_editor relative-caret-position="399">
+            <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
             <folding>
-              <marker date="1521011072410" expanded="false" signature="2608:2952" ph="..." />
-              <marker date="1521011072410" expanded="true" signature="2958:3066" ph="/**...*/" />
-              <marker date="1521011072410" expanded="true" signature="3110:5204" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="3235:3903" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="3745:3837" ph="//..." />
-              <marker date="1521011072410" expanded="true" signature="3961:4574" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="4332:4407" ph="//..." />
-              <marker date="1521011072410" expanded="true" signature="4614:4789" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="4841:5200" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="4880:5192" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="5286:5456" ph="..." />
-              <marker date="1521011072410" expanded="true" signature="5510:6837" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="5780:6221" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="5981:6073" ph="//..." />
-              <marker date="1521011072410" expanded="true" signature="6249:6392" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="6402:6485" ph="/**...*/" />
-              <marker date="1521011072410" expanded="true" signature="6536:6833" ph="{...}" />
-              <marker date="1521011072410" expanded="true" signature="6702:6781" ph="//..." />
+              <marker date="1521011184060" expanded="false" signature="2560:2904" ph="..." />
+              <marker date="1521011184060" expanded="true" signature="2910:3018" ph="/**...*/" />
+              <marker date="1521011184060" expanded="true" signature="3062:5156" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="3187:3855" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="3697:3789" ph="//..." />
+              <marker date="1521011184060" expanded="true" signature="3913:4526" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="4284:4359" ph="//..." />
+              <marker date="1521011184060" expanded="true" signature="4566:4741" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="4793:5152" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="4832:5144" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="5238:5408" ph="..." />
+              <marker date="1521011184060" expanded="true" signature="5462:6789" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="5732:6173" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="5933:6025" ph="//..." />
+              <marker date="1521011184060" expanded="true" signature="6201:6344" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="6354:6437" ph="/**...*/" />
+              <marker date="1521011184060" expanded="true" signature="6488:6785" ph="{...}" />
+              <marker date="1521011184060" expanded="true" signature="6654:6733" ph="//..." />
             </folding>
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/img/2.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
   </component>

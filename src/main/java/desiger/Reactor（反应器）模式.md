@@ -33,7 +33,7 @@ Handle(描述符)：就如java.nio.channels.SelectionKey类。用来识别事件
 Event Handler（事件处理接口）：定义一个由一个或多个钩子方法组成的接口。
 Concrete Event Handler（具体的事件处理接口）：无。
 
-![a](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/img/1.png)
+![a](../img/1.png)
 
 
 图2 ：客户机连接到登录服务器时采取的步骤
@@ -55,7 +55,7 @@ Concrete Event Handler（具体的事件处理接口）：无。
 4 Handler处理记录并执行写方法。
 5 Handler方法返回，循环继续执行。
 以上的图片和文字来自中文的电子书。 其实书中也是从英文论文中翻译过来的。英语好的直接看原文吧。
- 
+![a](../img/3.png)
 简单的实现这个模式需要三个类来完成，本人也是参见了网上其他人的代码：http://gzcj.iteye.com/blog/307217 程序没有客户端进行测试，希望真心想学习的人自己写一个客户端测试一下。
 
 这个是Reactor的代码，其中LoggingAcceptor作为其内部类。写到了Reactor的内部。
