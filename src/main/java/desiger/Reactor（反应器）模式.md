@@ -33,7 +33,7 @@ Handle(描述符)：就如java.nio.channels.SelectionKey类。用来识别事件
 Event Handler（事件处理接口）：定义一个由一个或多个钩子方法组成的接口。
 Concrete Event Handler（具体的事件处理接口）：无。
 
-![a](/img/1.png)
+![a](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/img/1.png)
 
 
 图2 ：客户机连接到登录服务器时采取的步骤
