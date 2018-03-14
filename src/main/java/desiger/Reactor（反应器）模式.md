@@ -23,7 +23,7 @@ Reactor的事件驱动就体现在了只有当事件发生（客户招呼服务�
 下面的内容主要来自：《面向模式的软件体系结构：卷2 用于并发和网络化对象的模式》的第三章的第一部分。点此下载，点此下载整本书
 英文原版《Reactor  An Object Behavioral Pattern for Demultiplexing and Dispatching Handles for Synchronous Events》
 
-一下主要针对论文中的几个图进行解释：
+以下主要针对论文中的几个图进行解释：
 
 图1:反应器模式类图
 Reactor有5个主要的成员：
@@ -33,6 +33,7 @@ Handle(描述符)：就如java.nio.channels.SelectionKey类。用来识别事件
 Event Handler（事件处理接口）：定义一个由一个或多个钩子方法组成的接口。
 Concrete Event Handler（具体的事件处理接口）：无。
 
+![a](/img/1.png)
 
 
 图2 ：客户机连接到登录服务器时采取的步骤
