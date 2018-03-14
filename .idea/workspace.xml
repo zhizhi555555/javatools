@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/utils/GroupUtil.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/balance/RoundRobinBalancer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,6 +23,48 @@
             <state relative-caret-position="285">
               <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoundRobinBalancer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/balance/RoundRobinBalancer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reactor（反应器）模式.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2584">
+                <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+                <folding>
+                  <marker date="1521009184627" expanded="false" signature="2505:2849" ph="..." />
+                  <marker date="1521009184627" expanded="true" signature="2855:2963" ph="/**...*/" />
+                  <marker date="1521009184627" expanded="true" signature="3007:5101" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="3132:3800" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="3642:3734" ph="//..." />
+                  <marker date="1521009184627" expanded="true" signature="3858:4471" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="4229:4304" ph="//..." />
+                  <marker date="1521009184627" expanded="true" signature="4511:4686" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="4738:5097" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="4777:5089" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="5183:5353" ph="..." />
+                  <marker date="1521009184627" expanded="true" signature="5407:6734" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="5677:6118" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="5878:5970" ph="//..." />
+                  <marker date="1521009184627" expanded="true" signature="6146:6289" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="6299:6382" ph="/**...*/" />
+                  <marker date="1521009184627" expanded="true" signature="6433:6730" ph="{...}" />
+                  <marker date="1521009184627" expanded="true" signature="6599:6678" ph="//..." />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -58,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GroupUtil.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GroupUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/utils/GroupUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
@@ -85,6 +126,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -97,6 +145,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/utils/GroupUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/balance/RoundRobinBalancer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md" />
       </list>
     </option>
   </component>
@@ -181,7 +231,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="desiger" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -328,12 +378,20 @@
       <option name="presentableId" value="Default" />
       <updated>1503369203744</updated>
       <workItem from="1503369327777" duration="13000" />
-      <workItem from="1521007079532" duration="286000" />
+      <workItem from="1521007079532" duration="2033000" />
     </task>
+    <task id="LOCAL-00001" summary="aa">
+      <created>1521007385547</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521007385547</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299000" />
+    <option name="totallyTimeSpent" value="2046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -350,7 +408,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2549168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -373,6 +431,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -428,14 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javatools.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -478,6 +532,52 @@
             <element signature="imports" expanded="true" />
             <element signature="e#312#330#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/balance/RoundRobinBalancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2584">
+            <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
+            <folding>
+              <marker date="1521009184627" expanded="false" signature="2505:2849" ph="..." />
+              <marker date="1521009184627" expanded="true" signature="2855:2963" ph="/**...*/" />
+              <marker date="1521009184627" expanded="true" signature="3007:5101" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="3132:3800" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="3642:3734" ph="//..." />
+              <marker date="1521009184627" expanded="true" signature="3858:4471" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="4229:4304" ph="//..." />
+              <marker date="1521009184627" expanded="true" signature="4511:4686" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="4738:5097" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="4777:5089" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="5183:5353" ph="..." />
+              <marker date="1521009184627" expanded="true" signature="5407:6734" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="5677:6118" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="5878:5970" ph="//..." />
+              <marker date="1521009184627" expanded="true" signature="6146:6289" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="6299:6382" ph="/**...*/" />
+              <marker date="1521009184627" expanded="true" signature="6433:6730" ph="{...}" />
+              <marker date="1521009184627" expanded="true" signature="6599:6678" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
