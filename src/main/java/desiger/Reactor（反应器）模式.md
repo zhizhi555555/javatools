@@ -46,6 +46,7 @@ Concrete Event Handler（具体的事件处理接口）：无。
 6 Acceptor接收客户机的请求
 7 Acceptor创建一个Handler处理客户端的请求。
 8 Handler向反应器注册socket handle，即告诉分发器当这个socket什么时候“准备就绪”一定要notify我。
+![a](../img/2.png)
 
 图3：服务器为一条登录记录服务时要采取的步骤
 1 客户端发送登录记录请求
