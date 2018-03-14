@@ -47,6 +47,7 @@ Concrete Event Handler（具体的事件处理接口）：无。
 6 Acceptor接收客户机的请求
 7 Acceptor创建一个Handler处理客户端的请求。
 8 Handler向反应器注册socket handle，即告诉分发器当这个socket什么时候“准备就绪”一定要notify我。
+
 ![a](../img/2.png)
 
 > 图3：服务器为一条登录记录服务时要采取的步骤
@@ -57,6 +58,7 @@ Concrete Event Handler（具体的事件处理接口）：无。
 4 Handler处理记录并执行写方法。
 5 Handler方法返回，循环继续执行。
 以上的图片和文字来自中文的电子书。 其实书中也是从英文论文中翻译过来的。英语好的直接看原文吧。
+
 ![a](../img/3.png)
 
 简单的实现这个模式需要三个类来完成，本人也是参见了网上其他人的代码：http://gzcj.iteye.com/blog/307217 程序没有客户端进行测试，希望真心想学习的人自己写一个客户端测试一下。
@@ -143,7 +145,7 @@ public class Reactor implements Runnable {
 
 ```
 
-###下面是Handler的代码，没有写成一个接口+继承的样式。
+###　下面是Handler的代码，没有写成一个接口+继承的样式。
 
 ````java
 package com.csdn;  
