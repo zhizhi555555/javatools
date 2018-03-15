@@ -143,9 +143,9 @@ public class Reactor implements Runnable {
     }  
 }  
 
-```
+````
 
-###　下面是Handler的代码，没有写成一个接口+继承的样式。
+
 
 ````java
 package com.csdn;  
