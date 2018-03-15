@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="AIO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/netty/netty.md" afterPath="$PROJECT_DIR$/src/main/java/netty/netty.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="189">
+              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2622">
-                <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+              <first_editor relative-caret-position="-1019">
+                <caret line="150" column="19" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
                 <folding>
                   <marker date="1521011541613" expanded="false" signature="2573:2917" ph="..." />
                   <marker date="1521011541613" expanded="true" signature="2923:3031" ph="/**...*/" />
@@ -58,12 +58,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="netty.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="netty.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/netty/netty.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="76">
-                <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+              <first_editor relative-caret-position="211">
+                <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -96,8 +96,8 @@
       <file leaf-file-name="MultiplexerTimeServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/netty/MultiplexerTimeServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="266">
+              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1106#1107#0" expanded="true" />
@@ -175,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/main/java/utils/GroupUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/balance/RoundRobinBalancer.java" />
         <option value="$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md" />
-        <option value="$PROJECT_DIR$/src/main/java/netty/netty.md" />
         <option value="$PROJECT_DIR$/src/main/java/netty/TimeServerHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/netty/TimeServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/netty/TimeClient.java" />
@@ -183,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/main/java/netty/MultiplexerTimeServer.java" />
         <option value="$PROJECT_DIR$/src/main/java/netty/TimeClientHandle.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/netty/netty.md" />
       </list>
     </option>
   </component>
@@ -215,8 +215,8 @@
     <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-40" />
-    <option name="y" value="129" />
+    <option name="x" value="73" />
+    <option name="y" value="4" />
     <option name="width" value="1386" />
     <option name="height" value="654" />
   </component>
@@ -500,7 +500,7 @@
       <updated>1503369203744</updated>
       <workItem from="1503369327777" duration="13000" />
       <workItem from="1521007079532" duration="6267000" />
-      <workItem from="1521081414224" duration="12671000" />
+      <workItem from="1521081414224" duration="13527000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1521007385547</created>
@@ -565,14 +565,21 @@
       <option name="project" value="LOCAL" />
       <updated>1521102399874</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="AIO">
+      <created>1521102430009</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1521102430009</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18951000" />
+    <option name="totallyTimeSpent" value="19807000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-40" y="129" width="1386" height="654" extended-state="0" />
+    <frame x="73" y="4" width="1386" height="654" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -830,47 +837,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2622">
-            <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-            <folding>
-              <marker date="1521011541613" expanded="false" signature="2573:2917" ph="..." />
-              <marker date="1521011541613" expanded="true" signature="2923:3031" ph="/**...*/" />
-              <marker date="1521011541613" expanded="true" signature="3075:5169" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="3200:3868" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="3710:3802" ph="//..." />
-              <marker date="1521011541613" expanded="true" signature="3926:4539" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="4297:4372" ph="//..." />
-              <marker date="1521011541613" expanded="true" signature="4579:4754" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="4806:5165" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="4845:5157" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="5220:5390" ph="..." />
-              <marker date="1521011541613" expanded="true" signature="5444:6771" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="5714:6155" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="5915:6007" ph="//..." />
-              <marker date="1521011541613" expanded="true" signature="6183:6326" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="6336:6419" ph="/**...*/" />
-              <marker date="1521011541613" expanded="true" signature="6470:6767" ph="{...}" />
-              <marker date="1521011541613" expanded="true" signature="6636:6715" ph="//..." />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/netty/netty.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty/TimeServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="454">
@@ -921,10 +887,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/netty/MultiplexerTimeServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="266">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1106#1107#0" expanded="true" />
@@ -933,11 +907,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/src/main/java/desiger/Reactor（反应器）模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1019">
+            <caret line="150" column="19" lean-forward="true" selection-start-line="150" selection-start-column="19" selection-end-line="150" selection-end-column="19" />
+            <folding>
+              <marker date="1521011541613" expanded="false" signature="2573:2917" ph="..." />
+              <marker date="1521011541613" expanded="true" signature="2923:3031" ph="/**...*/" />
+              <marker date="1521011541613" expanded="true" signature="3075:5169" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="3200:3868" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="3710:3802" ph="//..." />
+              <marker date="1521011541613" expanded="true" signature="3926:4539" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="4297:4372" ph="//..." />
+              <marker date="1521011541613" expanded="true" signature="4579:4754" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="4806:5165" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="4845:5157" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="5220:5390" ph="..." />
+              <marker date="1521011541613" expanded="true" signature="5444:6771" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="5714:6155" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="5915:6007" ph="//..." />
+              <marker date="1521011541613" expanded="true" signature="6183:6326" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="6336:6419" ph="/**...*/" />
+              <marker date="1521011541613" expanded="true" signature="6470:6767" ph="{...}" />
+              <marker date="1521011541613" expanded="true" signature="6636:6715" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/netty/netty.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="211">
+            <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
