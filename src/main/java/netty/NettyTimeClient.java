@@ -15,7 +15,7 @@ public class NettyTimeClient {
             .option(ChannelOption.TCP_NODELAY, true)
             .handler(new ChannelInitializer<SocketChannel>() {
                 protected void initChannel(SocketChannel ch) throws Exception {
-                    ch.pipeline().addLast(new TimeClientHandler());
+                    ch.pipeline().addLast(new NettyTimeClientHandler());
                 }
             });
             ChannelFuture f = b.connect(host, port).sync();

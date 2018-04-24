@@ -26,7 +26,6 @@ public class AsyncTimeClientHandler implements CompletionHandler<Void,AsyncTimeC
 
 
 
-    @Override
     public void run() {
       latch = new CountDownLatch(1);
       client.connect(new InetSocketAddress(host,port),this,this);
