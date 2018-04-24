@@ -1,6 +1,6 @@
-## reids介绍
+## redis 介绍
 
-一、什么是redis、redis有哪些特性、redis有哪些应用场景、redis的版本
+### 什么是redis、redis有哪些特性、redis有哪些应用场景、redis的版本
 
  1.什么是redis
 
@@ -32,7 +32,7 @@ redis是一种基于键值对（key-value）数据库，其中value可以为stri
 
 8>客户端语言多：java php python c c++ nodejs等
 
-3. redis有哪些应用场景
+3.redis有哪些应用场景
 
 1. 缓存：合理使用缓存加快数据访问速度，降低后端数据源压力
 
@@ -45,6 +45,7 @@ redis是一种基于键值对（key-value）数据库，其中value可以为stri
 5. 消息队列：发布和订阅
 
 4.redis的版本
+
 版本号第二位为奇数，为非稳定版本（2.7、2.9、3.1）
 
 第二为偶数，为稳定版本（2.6、2.8、3.0）
