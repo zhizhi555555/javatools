@@ -1,25 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_10.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_11.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_12.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_13.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_14.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_15.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_5.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_6.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_7.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/img/redis4_9.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/redis/redis_3.md" />
+    <list default="true" id="42f5d853-6b87-4376-98f7-68f57b138df7" name="Default" comment="redis_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/redis/redis_2.md" afterPath="$PROJECT_DIR$/src/main/java/redis/redis_2.md" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/redis/redis_4.md" afterPath="$PROJECT_DIR$/src/main/java/redis/redis_4.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -78,8 +62,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/redis/redis_4.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="4309">
-                <caret line="530" column="4" lean-forward="false" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="4" />
+              <first_editor relative-caret-position="1693">
+                <caret line="582" column="4" lean-forward="false" selection-start-line="582" selection-start-column="4" selection-end-line="582" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -252,11 +236,11 @@
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="9" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="32" />
+    <option name="y" value="11" />
     <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1018,7 +1002,7 @@
       <workItem from="1523684524946" duration="591000" />
       <workItem from="1523844436884" duration="12426000" />
       <workItem from="1524225986948" duration="593000" />
-      <workItem from="1524449338762" duration="7889000" />
+      <workItem from="1524449338762" duration="8957000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1521007385547</created>
@@ -1202,14 +1186,28 @@
       <option name="project" value="LOCAL" />
       <updated>1524554654686</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="redis_2">
+      <created>1524557405900</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1524557405900</updated>
+    </task>
+    <task id="LOCAL-00028" summary="redis_2">
+      <created>1524557456862</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1524557456862</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80944000" />
+    <option name="totallyTimeSpent" value="82012000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="32" y="11" width="1346" height="788" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1217,13 +1215,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14599092" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15007776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3223684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.52509654" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20045386" sideWeight="0.49342105" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20606531" sideWeight="0.49342105" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1532,8 +1530,8 @@
         <state relative-caret-position="205">
           <caret line="17" column="57" lean-forward="true" selection-start-line="17" selection-start-column="57" selection-end-line="17" selection-end-column="57" />
           <folding>
-            <element signature="e#569#795#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#569#795#0" expanded="false" />
+            <element signature="e#794#795#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1638,6 +1636,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/redis/img/redis4_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/redis/img/redis4_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/redis/redis_3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1649,21 +1657,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/redis/img/redis4_3.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/redis/img/redis4_4.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/redis/redis_4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4309">
-            <caret line="530" column="4" lean-forward="false" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="4" />
+          <first_editor relative-caret-position="1693">
+            <caret line="582" column="4" lean-forward="false" selection-start-line="582" selection-start-column="4" selection-end-line="582" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
