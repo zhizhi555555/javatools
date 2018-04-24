@@ -19,6 +19,7 @@
 
 ### 缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级
 
+![缓存雪崩、缓存穿透、缓存预热、缓存更新、缓存降级](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/redis/redis10.md)
 ### 使用缓存的合理性问题
 
 ### Redis常见的回收策略
