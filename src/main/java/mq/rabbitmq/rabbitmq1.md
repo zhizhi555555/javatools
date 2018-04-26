@@ -10,17 +10,22 @@ Erlang：[Erlang](http://www.erlang.org/download.html)
 RabbitMQ ：[RabbitMQ](http://www.rabbitmq.com/download.html) 
 安装RabbitMQ时注意如下图： 
 这里写图片描述
+
 ![1](img/rabbitmq1_1.png)
 
 RabbitMQ Service默认是自动勾选中的，这里我们取消勾选。如选中启动RabbitMQ服务时会报如下图错误： 
 这里写图片描述
+
 ![2](img/rabbitmq1_2.png)
+
 安装完成后，Erlang和RabbitMQ环境变量是没有配置的，需要自己手动去配置，如下图： 
 这里写图片描述
-    ![3](img/rabbitmq1_3.png)
+
+   ![3](img/rabbitmq1_3.png)
     
 这里写图片描述
-    ![4](img/rabbitmq1_4.png) 
+
+   ![4](img/rabbitmq1_4.png) 
     
 变量名分别为：ERLANG_HOME 、RABBITMQ_SERVER；同时把变量为配置在path环境变量中即可。 
 然后我们启动RabbitMQ服务，如下图： 
