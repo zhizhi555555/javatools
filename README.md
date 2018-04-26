@@ -9,7 +9,10 @@
 ## redis
 
   1. [redis portal](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/redis/redis.md)
+## rabbitmq
 
+  1. [rabbitMq portal](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/mq/rabbitmq/rabbitmq.md)
+  
 ## 工具类
   
  &ensp;1.  [分组工具](https://github.com/zhizhi555555/javatools/blob/master/src/main/java/utils/GroupUtil.java)<br/>
