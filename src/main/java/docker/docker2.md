@@ -38,7 +38,7 @@ Could not fetch/save url https://download.docker.com/linux/centos/docker-ce.repo
 
 这是由于国内访问不到docker官方镜像的缘故 
 可以通过aliyun的源来完成：
-
+https://cr.console.aliyun.com/#/accelerator
 ```
 sudo yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
 出现以下内容则表示docker仓库配置成功：
